@@ -1,1 +1,0 @@
-/run/media/krosis/30DF89ED5B33FF1F/SPRING2021/Research/star-calculator/target/debug/star-calculator: /run/media/krosis/30DF89ED5B33FF1F/SPRING2021/Research/star-calculator/src/main.rs

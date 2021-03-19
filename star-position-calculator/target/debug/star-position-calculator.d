@@ -1,0 +1,1 @@
+/run/media/krosis/30DF89ED5B33FF1F/SPRING2021/Research/star-position-calculator/target/debug/star-position-calculator: /run/media/krosis/30DF89ED5B33FF1F/SPRING2021/Research/star-position-calculator/src/astro_comp.rs /run/media/krosis/30DF89ED5B33FF1F/SPRING2021/Research/star-position-calculator/src/main.rs
